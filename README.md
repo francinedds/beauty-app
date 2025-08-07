@@ -44,3 +44,9 @@ cd beauty-app
 npm install
 # ou
 yarn install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+# ou
+yarn dev
+
