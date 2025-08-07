@@ -8,7 +8,7 @@ export default function Products() {
   const categories = ["Todos", "Base", "Batom", "Sombra", "Máscara", "Blush"];
 
   const categoryBanner = {
-    Todos: 'src/assets/charlotte-tilbury-virtual-appointments.jpg',
+    Todos: 'charlotte-tilbury-virtual-appointments.jpg',
     // Foundation: 'src/assets/foundations/foundations.png',
     // Lipstick: 'src/assets/lipstick.png',
     // Eyeshadow: 'src/assets/shadow.png',
