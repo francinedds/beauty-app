@@ -49,4 +49,21 @@ yarn install
 npm run dev
 # ou
 yarn dev
+```
+
+## Aprendizados
+
+- Pratiquei conceitos de responsividade, componetização (principalmente Layout) e organização de rotas.
+- Experimentei a abordagem mobile-first, priorizando a experiência no celular.
+- Implementação simples de uma **bag (carrinho)** com Context API.
+
+---
+
+## Contribuição
+
+Este projeto foi feito como **estudo**, por isso aceito sugestões, melhorias no design, novas funcionalidades ou ajustes no carrinho.  
+Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
+
+
+
 
