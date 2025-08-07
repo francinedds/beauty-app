@@ -14,7 +14,7 @@ export default function SplashScreen() {
 
   return (
     <div className="splash">
-      <img src="/src/assets/logo.png" alt="" />
+      <img src="logo.png" alt="" />
       <h1>BEAUTYCOM</h1>
     </div>
   );
